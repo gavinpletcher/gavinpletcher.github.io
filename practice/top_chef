@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+    header, body, footer{
+    background-color: LightSalmon;
+    }
+    ul{
+        background-color: deeppink;
+        list-style: none;
+    }
+    hr{
+        color: deeppink;
+    }
+</style>
+            <script src='validate.js'></script>
+
+<header>
+    <title>Flying Fish</title>
+    
+</header>
+</head>
+<body>
+<h1>Flying Fish</h1>
+<p>Have you ever wanted to eat sushi, drink alchol, and jump on trampolines at
+the same time? Well, we did to. So thats why we made Flying Fish to scratch that 
+global itch that everyone faces.</p>
+<hr>
+<h2>Menu</h2>
+<ul>
+    <li>flipping salmon   6.25$</li>
+    <li>Californa Rolls   8.50$</li>
+    <li>Flying Futpmaki   6.99$</li>
+    <li>Dino fish sticks &#129430  9.18$</li> 
+    <li>     <strong>drinks</strong></li>
+    <li>soda    3$</li>
+    <li>water   1.99$</li>
+    <li>slushie 5.75$</li>
+    <li>Ramune  4.50$</li>
+    <li>Sake    6.50$<li>
+            
+</ul>
+<h3>all purchases above 10$ come with free trampoline socks</h3>
+</body>
+<hr>
+<footer>
+    Flying Fish *all rights reserved *name trademarked
+</footer>
+
+

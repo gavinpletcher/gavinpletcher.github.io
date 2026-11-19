@@ -1,0 +1,18 @@
+/*
+  ITD110 Zen Garden Project
+  Your name: Gavin pletcher
+  Your design concept (one sentence):
+
+  All of your CSS goes in this file.
+*/
+body{
+    background-color: lemonchiffon;
+}
+#disclaimer{
+    background-color: red;
+    border: 1px darkred solid;
+}
+#disclaimer::before{
+height:200px;
+content: lorpis epsum;
+}

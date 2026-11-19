@@ -11,8 +11,8 @@ body{
 #disclaimer{
     background-color: red;
     border: 1px darkred solid;
+font-size: 30px;
+font: monospace;
+text-align: center;
 }
-#disclaimer::before{
-height:200px;
-content: lorpis epsum;
-}
+

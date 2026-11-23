@@ -6,13 +6,31 @@
   All of your CSS goes in this file.
 */
 body{
-    background-color: lemonchiffon;
+    background-color: orange;
 }
 #disclaimer{
-    background-color: red;
+    background-color: #ffcbcb;
     border: 1px darkred solid;
 font-size: 30px;
 font: monospace;
 text-align: center;
 }
+.submenu {
+    display: none;
+}
 
+.menu-item:hover .submenu,
+.menu-item:focus-within .submenu {
+    display: block;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    padding: 0px;
+    margin:30px;
+    background color: orange;
+    justify-content: space-around;
+}
+a{
+    color: black;
+}

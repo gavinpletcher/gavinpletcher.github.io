@@ -1,7 +1,8 @@
 /*
   ITD110 Zen Garden Project
   Your name: Gavin pletcher
-  Your design concept (one sentence):
+  Your design concept (one sentence):my theme is halloween mixed with a prison
+
 
   All of your CSS goes in this file.
 */
@@ -33,4 +34,7 @@ ul{
 }
 a{
     color: black;
+}
+img{
+    filter: grayscale(100%);
 }
